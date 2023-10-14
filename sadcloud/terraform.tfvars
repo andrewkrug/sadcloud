@@ -1,4 +1,4 @@
-all_findings = false
+all_findings = true
 all_cloudformation_findings = false
 all_cloudtrail_findings = false
 all_cloudwatch_findings = false

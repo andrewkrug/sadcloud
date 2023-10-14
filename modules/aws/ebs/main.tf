@@ -1,5 +1,5 @@
 resource "aws_ebs_volume" "main" {
-  availability_zone = "us-east-1a"
+  availability_zone = "us-west-1a"
   size              = 1
   encrypted = !var.ebs_volume_unencrypted
 
